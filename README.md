@@ -1,31 +1,32 @@
-
-# Hi, I am Nandita Bedi! 👋
+# Hi, I am Nandita Bedi!
 
 ## About Me
-- BCA Student in AI and Data Science
-- Interested in Artificial Intelligence and Data Analytics
-- Currently learning Python, Git, GitHub and Linux
+
+- Student at K.R. Mangalam University
+- Currently learning Python, Linux and Git/GitHub
+
 
 ## Technical Skills
 
-| Category | Technologies |
-|---|---|
-| Languages | Python |
-| Tools | Git, GitHub, VS Code |
-| Concepts | File Systems, Markdown, Data Analysis |
+- Python (Beginner)
+- Git and GitHub
+- Linux Terminal
+- VS Code
 
 ## Featured Projects
-- Python Programming Lab
-- Data Analysis Projects
-- GitHub Lab Projects
+
+- CSE103 Lab - LAB 3
+- Git workflows and Markdown documentation
 
 ## Currently Working On
-- Improving Python programming
-- Learning Git and GitHub
-- Building data science projects
+
+- Semester 1 lab projects
+- Improving my programming skills
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your email
+
+- LinkedIn:https://www.linkedin.com/in/nandita-bedi-122835432?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: 2601201048@krmu.edu.in
+
 
 
