@@ -2,31 +2,29 @@
 
 ## About Me
 
-- Student at K.R. Mangalam University
-- Currently learning Python, Linux and Git/GitHub
-
+- BCA (Honours) student in Artificial Intelligence & Data Science at K.R. Mangalam University, Gurugram (Batch 2026–30)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, Python, and SQL
+- Interested in: AI-ML and Data Science
 
 ## Technical Skills
 
-- Python (Beginner)
-- Git and GitHub
-- Linux Terminal
-- VS Code
+| Category   | Technologies                                |
+|------------|---------------------------------------------|
+| Languages  | Python, SQL, HTML, Bash / Shell Scripting   |
+| Tools      | Git, GitHub, VS Code, Linux Terminal        |
+| Concepts   | Version Control, File Systems, Markdown     |
 
 ## Featured Projects
 
-- CSE103 Lab - LAB 3
-- Git workflows and Markdown documentation
+- [CSE103 Lab — LAB 3](https://github.com/nanditabedi08/cse103-lab-LAB3)
+
+  Git workflows, local-to-remote repository management, and Markdown documentation
 
 ## Currently Working On
 
-- Semester 1 lab projects
-- Improving my programming skills
+- Semester 1 lab projects and building daily problem-solving habits
 
 ## Connect With Me
 
-- LinkedIn:https://www.linkedin.com/in/nandita-bedi-122835432?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: [Nandita Bedi](https://www.linkedin.com/in/nandita-bedi-122835432)
 - Email: 2601201048@krmu.edu.in
-
-
-
