@@ -16,8 +16,7 @@
 
 ## Featured Projects
 
-- [CSE103 Lab — LAB 3](https://github.com/nanditabedi08/cse103-lab-LAB3)
-
+- [CSE103 Lab — LAB 3](https://github.com/nanditabedi08/CSE103)
   Git workflows, local-to-remote repository management, and Markdown documentation
 
 ## Currently Working On
