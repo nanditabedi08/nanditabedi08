@@ -26,5 +26,5 @@
 
 ## Connect With Me
 
-- LinkedIn: [Nandita Bedi](https://www.linkedin.com/in/nandita-bedi-122835432)
+- LinkedIn: [Nandita Bedi](https://www.linkedin.com/in/nandita-bedi-4389bb430)
 - Email: 2601201048@krmu.edu.in
